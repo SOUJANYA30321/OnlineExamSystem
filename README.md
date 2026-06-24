@@ -26,22 +26,22 @@ A web-based Online Examination System developed using Java technologies that all
 ---
 
 ## 📂 Project Structure
+
 OnlineExamSystem/
-│
-├── src/
-│ └── com.dcl/
-│ ├── LoginServlet.java
-│ ├── RegisterServlet.java
-│ ├── SubmitExamServlet.java
-│ └── DBConnection.java
-│
-├── WebContent/
-│ ├── index.jsp
-│ ├── login.jsp
-│ ├── register.jsp
-│ ├── exam.jsp
-│ └── result.jsp
-│
+
+- src/
+  - com.dcl/
+    - LoginServlet.java
+    - RegisterServlet.java
+    - SubmitExamServlet.java
+    - DBConnection.java
+
+- WebContent/
+  - index.jsp
+  - login.jsp
+  - register.jsp
+  - exam.jsp
+  - result.jsp
 
 ---
 
