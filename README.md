@@ -68,19 +68,27 @@ CREATE TABLE results (
     username VARCHAR(50),
     score INT
 );
+```
 
-⚙️ How to Run the Project
+---
+
+## ⚙️ How to Run the Project
+
 1. Import project into Eclipse IDE
 2. Configure Apache Tomcat server
-3. Set up MySQL database and tables
-4. Update DB credentials in DBConnection.java
+3. Create MySQL database and tables in Workbench
+4. Update DB credentials in `DBConnection.java`
 5. Run project on server
-6. Open in browser:
-7. http://localhost:8080/OnlineExamSystem/
+6. Open browser and go to:
 
-📌 Future Improvements
-1. Timer for exam submission
-2. Random question generation
-3. Admin panel for adding questions
-4. Password encryption
-5. Better UI design
+http://localhost:8080/OnlineExamSystem/
+
+---
+
+## 📌 Future Improvements
+
+- Timer for exam submission
+- Random question generation
+- Admin panel for adding questions
+- Password encryption
+- Improved UI design
